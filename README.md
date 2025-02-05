@@ -1,5 +1,5 @@
 # edit-code-to-success
- * อย่าลืมเปิด Xampp ก่อนจะทำและสร้างฐานข้อมูลให้เสร็จ พร้อมจัดการ node js และเชื่อมฐานข้อมูลให้เรียบร้อยใน file .env *
+ * อย่าลืมเปิด Xampp ก่อนจะทำและสร้างฐานข้อมูลให้เสร็จ พร้อมจัดการ node js และเชื่อมฐานข้อมูลให้เรียบร้อยใน file .env !!!!
  * ติดปัญหาอะไรให้ทักแชทมาถาม good luck :)
 #step code
  - copy code in floder constant.ts +server.ts db.ts
