@@ -6,7 +6,7 @@
 
 #step run
  - pnpm build
- - node ./build
+ - node ./build or node ./build/
  - pnpm cypress install (ถ้ายังไม่ได้ติดตั้ง) ** ถ้าลงแล้วให้ข้ามไปเลย **
  - pnpm cypress open
  - ให้คลิกเลือก E2E Testing
